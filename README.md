@@ -1,7 +1,6 @@
 Here are some resources and roadmaps to help you learn React, Python, Generative AI (Gen AI), Retrieval-Augmented Generation (RAG), and Augmented Reality (AR):
 
 ### 1. **React**
-- **Official Documentation**: [React Docs](https://reactjs.org/docs/getting-started.html)
 - **Roadmap**:
   - [React Developer Roadmap](https://roadmap.sh/react)
   - [React Learning Path - freeCodeCamp](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/)
@@ -10,7 +9,6 @@ Here are some resources and roadmaps to help you learn React, Python, Generative
   - [Frontend Masters React Learning Path](https://frontendmasters.com/learn/react/)
 
 ### 2. **Python**
-- **Official Documentation**: [Python Docs](https://docs.python.org/3/)
 - **Roadmap**:
   - [Python Developer Roadmap](https://roadmap.sh/python)
 - **Courses & Tutorials**:
