@@ -1,83 +1,25 @@
-TOP UPCOMING HACKATHONS 2025
----
+<h2>IMPORTANT COURSE LINK = https://bit.ly/nishant-iit-mandi 🚀</h2>
 
-### **NVIDIA NIM Hackathon**
-- **Dates:** September 18, 2024 - October 23, 2024  
-- **Event Focus:** AI  
-- **Event Format:** Hybrid Event  
-- **Region:** Asia-Pacific  
-- **Application Status:** Closed  
-
----
-
-### **TACC Open Hackathon**
-- **Dates:** October 15-24, 2024  
-- **Event Focus:** HPC + AI  
-- **Event Format:** Hybrid Event  
-- **Region:** North America/Latin America  
-- **Application Status:** Closed  
-
----
-
-### **Poland Open Hackathon**
-- **Dates:** October 22-30, 2024  
-- **Event Focus:** HPC + AI  
-- **Event Format:** Virtual Event  
-- **Region:** Europe/Middle East/Africa  
-- **Application Status:** Closed  
-
----
-
-### **Singapore Generative AI Hackathon**
-- **Dates:** October 29, 2024 - November 15, 2024  
-- **Event Focus:** AI  
-- **Event Format:** In-Person Event  
-- **Region:** Asia-Pacific  
-- **Application Status:** Open  
-
----
-
-### **NCHC Open Hackathon**
-- **Dates:** November 13, 2024 - December 04, 2024  
-- **Event Focus:** HPC + AI  
-- **Event Format:** Hybrid Event  
-- **Region:** Asia-Pacific  
-- **Application Status:** Open  
-
----
-
-### **Georgia Tech Open Hackathon**
-- **Dates:** January 21-30, 2025  
-- **Event Focus:** HPC + AI  
-- **Event Format:** Hybrid Event  
-- **Region:** North America/Latin America  
-- **Application Status:** Open  
-
----
-
-### **Helmholtz Open Hackathon**
-- **Dates:** April 1-11, 2025  
-- **Event Focus:** HPC + AI  
-- **Event Format:** Hybrid Event  
-- **Region:** Europe/Middle East/Africa  
-- **Application Status:** Open  
-
----
-
-### **IDRIS Open Hackathon**
-- **Dates:** May 13-22, 2025  
-- **Event Focus:** HPC + AI  
-- **Event Format:** Hybrid Event  
-- **Region:** Europe/Middle East/Africa  
-- **Application Status:** Open  
-
----
-
-### **Princeton Open Hackathon**
-- **Dates:** June 4-13, 2025  
-- **Event Focus:** HPC + AI  
-- **Event Format:** Hybrid Event  
-- **Region:** North America/Latin America  
-- **Application Status:** Open  
-
----
+| **Hackathon Name** | **Prize** | **Link** | **Suggested Project Ideas** |
+| --- | --- | --- | --- |
+| **Smart City Hackathon** | $30,500 | [Smart City Hackathon](https://smartcity-hackathon.devpost.com/?ref_feature=challenge&ref_medium=discover) | 1. Smart traffic management system <br> 2. IoT-enabled waste management <br> 3. Air quality monitoring app <br> 4. Automated city lighting control <br> 5. Public safety alert system |
+| **She Builds AI** | $40,000 | [She Builds AI](https://womentechmakers.devpost.com/?ref_feature=challenge&ref_medium=discover) | 1. AI-based women safety platform <br> 2. Female-centric healthcare assistant <br> 3. AI career coaching for women <br> 4. Bias detection in algorithms <br> 5. Women’s digital mentorship platform |
+| **GNEC Hackathon 2024** | $10,125 | [GNEC Hackathon](https://gnec-hackathon-2024-fall.devpost.com/?ref_feature=challenge&ref_medium=discover) | 1. Green energy consumption tracker <br> 2. AI-based agricultural solution <br> 3. Automated public service scheduling <br> 4. Climate impact calculator <br> 5. Rural connectivity platform |
+| **Student Hacks** | $75,450 | [Student Hacks](https://student-hacks-.devpost.com/?ref_feature=challenge&ref_medium=discover) | 1. AI-based student mental health platform <br> 2. Virtual classroom with real-time feedback <br> 3. Smart note-taking tool <br> 4. Remote learning project management tool <br> 5. Peer-to-peer tutoring app |
+| **Cal Hacks 11.0** | $146,360 | [Cal Hacks 11.0](https://cal-hacks-11-0.devpost.com/?ref_feature=challenge&ref_medium=discover) | 1. University campus navigation AR tool <br> 2. AI-based career path recommendation system <br> 3. Real-time collaborative coding platform <br> 4. Smart dorm energy management <br> 5. Social good fundraising platform |
+| **Technica 2024** | $3,287 | [Technica 2024](https://technica-2024.devpost.com/?ref_feature=challenge&ref_medium=discover) | 1. Women empowerment platform <br> 2. Female coder mentorship app <br> 3. Mental health app for women in tech <br> 4. AI-based résumé builder <br> 5. Gender bias identification tool |
+| **NinjaHacks** | $46,620 | [NinjaHacks](https://ninjahacks-26014.devpost.com/?ref_feature=challenge&ref_medium=discover) | 1. AI-powered code optimization tool <br> 2. Automated code review bot <br> 3. Real-time collaboration for coders <br> 4. Code-to-UI generator <br> 5. Cybersecurity code analyzer |
+| **HackaSun** | $1,100 | [HackaSun](https://hackasun-1.devpost.com/?ref_feature=challenge&ref_medium=discover) | 1. Solar energy tracker <br> 2. Smart irrigation system <br> 3. Solar-powered IoT devices <br> 4. Green energy dashboard <br> 5. Smart solar panel maintenance system |
+| **GPT4o: Code & Conquer** | $10,000 | [GPT4o: Code & Conquer](https://gpt4o-code-conquer.devpost.com/?ref_feature=challenge&ref_medium=discover) | 1. GPT-powered debugging assistant <br> 2. AI-driven test case generator <br> 3. GPT-based code documentation tool <br> 4. AI-driven version control <br> 5. GPT-assisted code refactorer |
+| **LaunchHacks IV** | $20,000 | [LaunchHacks IV](https://launchhacks-iv.devpost.com/?ref_feature=challenge&ref_medium=discover) | 1. Startup pitch generator <br> 2. Market analysis tool for startups <br> 3. Investor matchmaking platform <br> 4. Startup milestone tracker <br> 5. AI-powered product roadmap tool |
+| **HorizonHacks 2024** | $75,000 | [HorizonHacks 2024](https://horizonhacks-2024.devpost.com/?ref_feature=challenge&ref_medium=discover) | 1. Real-time satellite data analysis tool <br> 2. Space exploration dashboard <br> 3. AI-driven satellite tracking <br> 4. Remote environmental monitoring <br> 5. Space data visualization tool |
+| **AI Hackathon - Ethical AI Data Solutions** | $5,800 | [Ethical AI Hackathon](https://ethicalaisolutions.devpost.com/?ref_feature=challenge&ref_medium=discover) | 1. AI bias detection toolkit <br> 2. AI fairness and ethics auditor <br> 3. Data privacy compliance checker <br> 4. Responsible AI chatbot <br> 5. AI transparency reporting tool |
+| **Syntax Error** | $6,800 | [Syntax Error](https://syntax-error-2024.devfolio.co/prizes) | 1. AI code error fixer <br> 2. Syntax-based learning tool <br> 3. Code completion assistant <br> 4. Automated syntax improvement bot <br> 5. Syntax-based bug bounty platform |
+| **Sahamati BuildAAthon 2024** | ₹4,50,000 | [Sahamati BuildAAthon 2024](https://sahamati-buildaathon-2024.devfolio.co/prizes) | 1. AI-driven document verification system <br> 2. Fintech API integration for banks <br> 3. Secure data-sharing platform <br> 4. Consent-based data transfer solution <br> 5. UPI-based payment solution |
+| **CodeUtsava 8.0** | $1,859 | [CodeUtsava 8.0](https://codeutsava-8.devfolio.co/prizes) | 1. Smart agriculture app <br> 2. Real-time crop price prediction <br> 3. AI-driven weather prediction for farmers <br> 4. Market linkage platform <br> 5. Sustainable farming assistant |
+| **Quant-A-Maze 2.0** | $1,750 | [Quant-A-Maze 2.0](https://quantamaze-2.devfolio.co/prizes) | 1. Quantitative finance modeler <br> 2. Stock prediction app <br> 3. Algorithmic trading platform <br> 4. Risk analysis tool <br> 5. Data-driven financial dashboard |
+| **PEC Hacks 2.0** | $3,950 | [PEC Hacks 2.0](https://pechacks2.devfolio.co/prizes) | 1. AI-based personal finance manager <br> 2. AI-driven college productivity tool <br> 3. Peer-to-peer networking platform <br> 4. Smart attendance system <br> 5. College event management system |
+| **Neon Hack** | $16,000 | [Neon Hack](https://neonhack.devpost.com/?ref_feature=challenge&ref_medium=discover) | 1. Neon-themed smart lighting system <br> 2. AR gaming experience <br> 3. Neon art generator using AI <br> 4. IoT-powered neon sign controller <br> 5. Neon-based VR immersive world |
+| **Microsoft Fabric and AI Hack** | $10,000 | [Microsoft Fabric Hack](https://microsoftfabric.devpost.com/?ref_feature=challenge&ref_medium=discover) | 1. AI-powered data fabric for cloud storage <br> 2. Fabric defect detection using AI <br> 3. Real-time collaborative AI-driven dashboards <br> 4. Smart document scanning assistant <br> 5. AI-based customer insights engine |
+| **Girls Hoo Hack 2024** | $4,012 | [Girls Hoo Hack](https://girls-hoo-hack-2024.devpost.com/?ref_feature=challenge&ref_medium=discover) | 1. Women in STEM mentorship platform <br> 2. Safe space app for women <br> 3. Women's health and wellness AI coach <br> 4. Scholarship matching app for girls <br> 5. Code-for-good program for female coders |
+| **GreenHack Challenge 2024** | $1,950 | [GreenHack Challenge](https://greenhack-challenge-2024.devpost.com/?ref_feature=challenge&ref_medium=discover) | 1. Eco-friendly app to track carbon footprint <br> 2. Sustainable product marketplace <br> 3. Smart recycling bin using AI <br>  4. Green energy resource tracker <br> 5. AI-driven environmental impact dashboard |
